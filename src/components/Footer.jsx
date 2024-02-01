@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <footer className="my-footer row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 mt-5 border-top bg-light">
+    <footer className="my-footer row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 mt-5 border-top bg-body-secondary">
       <div className="col">
         <a
           href="/"
